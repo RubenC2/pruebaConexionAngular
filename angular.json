@@ -67,7 +67,8 @@
               "buildTarget": "pruebaEstructura:build:production"
             },
             "development": {
-              "buildTarget": "pruebaEstructura:build:development"
+              "buildTarget": "pruebaEstructura:build:development",
+              "proxyConfig": "proxy.conf.json"
             }
           },
           "defaultConfiguration": "development"

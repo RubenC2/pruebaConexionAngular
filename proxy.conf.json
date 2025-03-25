@@ -1,0 +1,6 @@
+{
+  "/api/hola": {
+    "target": "https://localhost:7298",
+    "secure": false
+  }
+}
